@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 打磨棒的号数
-category: Gunpal-Model
+category: 高达模型
 tags: 高达
 description: 打磨棒的号数
 ---
