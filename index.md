@@ -4,7 +4,11 @@ layout: post
 
 ## 关于个人博客
 
-这是一个Github上fork博客模版的一个个人性质Blog。主要记录一些个人学习方面的内容。
+这个博客fork了一个Github上的开源博客模版。
+
+用于记录一些个人认为有用的信息。
+
+并且借此目的熟悉Github，Markdown，Git等工具。
 
 ## 博客平台
 
