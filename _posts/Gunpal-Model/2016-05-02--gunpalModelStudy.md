@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 高达模型入门推荐
-category: Gunpal-Model
+category: 高达模型
 tags: 高达
 description: 高达模入门推荐
 ---
