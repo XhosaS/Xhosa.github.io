@@ -1,8 +1,8 @@
 # Site settings
-title: Xhosa的个人博客
+title: XhosaS的个人博客
 email: 463635153@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  Xhosa的博客
+  XhosaS的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://xhosas.github.io/" # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
@@ -24,7 +24,7 @@ favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # disqus 设置
 disqus:
-  shortname: xhosaS
+  shortname: XhosaS
 
 # google analytics 设置
 ga:
