@@ -27,7 +27,7 @@ description: Android TextView实现跑马灯特效
     import android.util.AttributeSet;
     import android.widget.RemoteViews.RemoteView;
     /**
-    * Created by 刘润锦 on 2016/3/3.
+    * Created by Xhosa on 2016/3/3.
     */
     public class AlwaysMarqueeTextView extends TextView {
 
