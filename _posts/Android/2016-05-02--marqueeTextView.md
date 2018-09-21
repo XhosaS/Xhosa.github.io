@@ -51,5 +51,5 @@ description: Android TextView实现跑马灯特效
 
 主要是重写了isFocused()方法，让isFocused()始终返回true，从而让TextView实现默认跑马灯效果。然后再在.xml文件中用`AlwaysMarqueeTextView`替代TextView，就可以了。
 
-## 其他
-在本方法中，重写了TextView的isFocused()，但我尚不清楚这一改动会不会造成其他影响，如果有，将在这里进行更新。
+## 影响
+这个方法让该控件一直获取了焦点，在使用键盘等设备的情况下，会对使用造成BUG，待优化
