@@ -23,7 +23,7 @@ namespace android {
 
 #endif //_ANDROID_UTIL_MYENCRYPTION_H
 ```
-
+`android_util_MyEncryption.cpp`文件：
 ```c++
 #include "jni.h"
 #include "JNIHelp.h"
