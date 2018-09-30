@@ -259,7 +259,7 @@ static jstring android_util_MyEncryption_getHashValue(JNIEnv *env, jclass clazz,
     //转成jstring
     jstring str = ToMd5(env, signatureByteArray);
     char *c_msg = (char *) env->GetStringUTFChars(str, 0);
-    if (strcmp(c_msg, "8DDB342F2DA5408402D7568AF21E29F9") != 0) {
+    if (strcmp(c_msg, "YOUR SIGNATURE") != 0) {
         return (env)->NewStringUTF(c_msg);
     }
     return env->NewStringUTF("test");
